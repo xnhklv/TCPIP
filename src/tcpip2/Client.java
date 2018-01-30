@@ -6,6 +6,7 @@ public class Client {
 		// TODO Auto-generated method stub
 		
 		int a =10;
+		int b = 10;
 
 	}
 
