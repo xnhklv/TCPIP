@@ -9,6 +9,7 @@ public class Client {
 		int b = 10;
 
 		int c =10;
+		int d = 10;
 	}
 
 }
